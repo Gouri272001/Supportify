@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HomeServices</string>
+    <string name="log_in">Log in</string>
+    <string name="register">Register</string>
+    <string name="dont_have_an_account">Dont have an account?</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="welcome">Welcome</string>
+    <string name="username">username</string>
+    <string name="your_role_is">Your role is:</string>
+    <string name="role">role</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="create_username">Create username</string>
+    <string name="service">Service</string>
+    <string name="add_service_btn">Add Service</string>
+    <string name="enter_service">Enter Service</string>
+    <string name="remove_service">Remove Service</string>
+    <string name="initial_rate">Initial Rate</string>
+    <string name="edit_service">Edit Service</string>
+    <string name="update_service">Update Service</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="view_edit_services">View/Edit Services</string>
+    <string name="view_edit_availability">View/Edit Availability</string>
+    <string name="log_out">Log Out</string>
+    <string name="companyName">USERNAME</string>
+    <string name="welcomeSP">Welcome</string>
+</resources>
